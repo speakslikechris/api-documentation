@@ -110,7 +110,7 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"description": "You can filter suspects by their race. This returns the number of suspects matching your defined race value.\nHere are the permitted race values:\n* black\n* hispanic\n* native\n* white\n"
+				"description": "You can filter suspects by their race. This returns the number of suspects matching your defined race value.  \nHere are the permitted race values:\n\n- black\n    \n- hispanic\n    \n- native\n    \n- white"
 			},
 			"response": [
 				{
